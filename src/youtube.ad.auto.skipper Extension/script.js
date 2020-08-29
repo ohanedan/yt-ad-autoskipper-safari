@@ -1,3 +1,5 @@
+//Source: https://github.com/squgeim/yt-ad-autoskipper/blob/master/skipad.js
+
 (function () {
   var classList = [
     'videoAdUiSkipButton', // Old close ad button

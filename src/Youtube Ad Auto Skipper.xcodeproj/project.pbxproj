@@ -12,7 +12,7 @@
 		8F63F87E24FA594A00C9804E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F63F87C24FA594A00C9804E /* Main.storyboard */; };
 		8F63F88024FA594A00C9804E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F63F87F24FA594A00C9804E /* ViewController.swift */; };
 		8F63F88224FA594B00C9804E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F63F88124FA594B00C9804E /* Assets.xcassets */; };
-		8F63F88924FA594B00C9804E /* youtube.ad.auto.skipper Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 8F63F88824FA594B00C9804E /* youtube.ad.auto.skipper Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		8F63F88924FA594B00C9804E /* Youtube Ad Auto Skipper Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 8F63F88824FA594B00C9804E /* Youtube Ad Auto Skipper Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		8F63F88E24FA594B00C9804E /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F63F88D24FA594B00C9804E /* Cocoa.framework */; };
 		8F63F89124FA594B00C9804E /* SafariExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F63F89024FA594B00C9804E /* SafariExtensionHandler.swift */; };
 		8F63F89324FA594B00C9804E /* SafariExtensionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F63F89224FA594B00C9804E /* SafariExtensionViewController.swift */; };
@@ -38,7 +38,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				8F63F88924FA594B00C9804E /* youtube.ad.auto.skipper Extension.appex in Embed App Extensions */,
+				8F63F88924FA594B00C9804E /* Youtube Ad Auto Skipper Extension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -46,14 +46,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		8F63F87524FA594A00C9804E /* youtube.ad.auto.skipper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = youtube.ad.auto.skipper.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F63F87524FA594A00C9804E /* Youtube Ad Auto Skipper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Youtube Ad Auto Skipper.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F63F87824FA594A00C9804E /* youtube_ad_auto_skipper.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = youtube_ad_auto_skipper.entitlements; sourceTree = "<group>"; };
 		8F63F87A24FA594A00C9804E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8F63F87D24FA594A00C9804E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8F63F87F24FA594A00C9804E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8F63F88124FA594B00C9804E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8F63F88324FA594B00C9804E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8F63F88824FA594B00C9804E /* youtube.ad.auto.skipper Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "youtube.ad.auto.skipper Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F63F88824FA594B00C9804E /* Youtube Ad Auto Skipper Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Youtube Ad Auto Skipper Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F63F88D24FA594B00C9804E /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		8F63F89024FA594B00C9804E /* SafariExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariExtensionHandler.swift; sourceTree = "<group>"; };
 		8F63F89224FA594B00C9804E /* SafariExtensionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariExtensionViewController.swift; sourceTree = "<group>"; };
@@ -96,8 +96,8 @@
 		8F63F87624FA594A00C9804E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8F63F87524FA594A00C9804E /* youtube.ad.auto.skipper.app */,
-				8F63F88824FA594B00C9804E /* youtube.ad.auto.skipper Extension.appex */,
+				8F63F87524FA594A00C9804E /* Youtube Ad Auto Skipper.app */,
+				8F63F88824FA594B00C9804E /* Youtube Ad Auto Skipper Extension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -140,9 +140,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8F63F87424FA594A00C9804E /* youtube.ad.auto.skipper */ = {
+		8F63F87424FA594A00C9804E /* Youtube Ad Auto Skipper */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8F63F8A324FA594B00C9804E /* Build configuration list for PBXNativeTarget "youtube.ad.auto.skipper" */;
+			buildConfigurationList = 8F63F8A324FA594B00C9804E /* Build configuration list for PBXNativeTarget "Youtube Ad Auto Skipper" */;
 			buildPhases = (
 				8F63F87124FA594A00C9804E /* Sources */,
 				8F63F87224FA594A00C9804E /* Frameworks */,
@@ -154,14 +154,14 @@
 			dependencies = (
 				8F63F88B24FA594B00C9804E /* PBXTargetDependency */,
 			);
-			name = youtube.ad.auto.skipper;
+			name = "Youtube Ad Auto Skipper";
 			productName = youtube.ad.auto.skipper;
-			productReference = 8F63F87524FA594A00C9804E /* youtube.ad.auto.skipper.app */;
+			productReference = 8F63F87524FA594A00C9804E /* Youtube Ad Auto Skipper.app */;
 			productType = "com.apple.product-type.application";
 		};
-		8F63F88724FA594B00C9804E /* youtube.ad.auto.skipper Extension */ = {
+		8F63F88724FA594B00C9804E /* Youtube Ad Auto Skipper Extension */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8F63F89F24FA594B00C9804E /* Build configuration list for PBXNativeTarget "youtube.ad.auto.skipper Extension" */;
+			buildConfigurationList = 8F63F89F24FA594B00C9804E /* Build configuration list for PBXNativeTarget "Youtube Ad Auto Skipper Extension" */;
 			buildPhases = (
 				8F63F88424FA594B00C9804E /* Sources */,
 				8F63F88524FA594B00C9804E /* Frameworks */,
@@ -171,9 +171,9 @@
 			);
 			dependencies = (
 			);
-			name = "youtube.ad.auto.skipper Extension";
+			name = "Youtube Ad Auto Skipper Extension";
 			productName = "youtube.ad.auto.skipper Extension";
-			productReference = 8F63F88824FA594B00C9804E /* youtube.ad.auto.skipper Extension.appex */;
+			productReference = 8F63F88824FA594B00C9804E /* Youtube Ad Auto Skipper Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
@@ -194,7 +194,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8F63F87024FA594A00C9804E /* Build configuration list for PBXProject "youtube.ad.auto.skipper" */;
+			buildConfigurationList = 8F63F87024FA594A00C9804E /* Build configuration list for PBXProject "Youtube Ad Auto Skipper" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -207,8 +207,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8F63F87424FA594A00C9804E /* youtube.ad.auto.skipper */,
-				8F63F88724FA594B00C9804E /* youtube.ad.auto.skipper Extension */,
+				8F63F87424FA594A00C9804E /* Youtube Ad Auto Skipper */,
+				8F63F88724FA594B00C9804E /* Youtube Ad Auto Skipper Extension */,
 			);
 		};
 /* End PBXProject section */
@@ -260,7 +260,7 @@
 /* Begin PBXTargetDependency section */
 		8F63F88B24FA594B00C9804E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8F63F88724FA594B00C9804E /* youtube.ad.auto.skipper Extension */;
+			target = 8F63F88724FA594B00C9804E /* Youtube Ad Auto Skipper Extension */;
 			targetProxy = 8F63F88A24FA594B00C9804E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -475,7 +475,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8F63F87024FA594A00C9804E /* Build configuration list for PBXProject "youtube.ad.auto.skipper" */ = {
+		8F63F87024FA594A00C9804E /* Build configuration list for PBXProject "Youtube Ad Auto Skipper" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8F63F89D24FA594B00C9804E /* Debug */,
@@ -484,7 +484,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8F63F89F24FA594B00C9804E /* Build configuration list for PBXNativeTarget "youtube.ad.auto.skipper Extension" */ = {
+		8F63F89F24FA594B00C9804E /* Build configuration list for PBXNativeTarget "Youtube Ad Auto Skipper Extension" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8F63F8A024FA594B00C9804E /* Debug */,
@@ -493,7 +493,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8F63F8A324FA594B00C9804E /* Build configuration list for PBXNativeTarget "youtube.ad.auto.skipper" */ = {
+		8F63F8A324FA594B00C9804E /* Build configuration list for PBXNativeTarget "Youtube Ad Auto Skipper" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8F63F8A424FA594B00C9804E /* Debug */,
