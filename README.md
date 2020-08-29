@@ -6,7 +6,7 @@ This extension was created as a safari version of the [squgeim](https://github.c
 ## Installation
 - Turn on developer mode on Safari.
 - Open "Allow unsigned extensions" option in developer menu.
-- Put the application in the Applications folder and run.
+- Put the application in the Applications folder and run(You may need to allow it from the "security & privacy" section in the System Preferences).
 - Activate this extension from the safari settings menu.
 
 You can download the latest release from the link below.
