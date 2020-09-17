@@ -4,7 +4,7 @@ A Safari extension that automates skipping ad on Youtube. This is not an ad bloc
 This extension was created as a safari version of the [squgeim](https://github.com/squgeim)/**[yt-ad-autoskipper](https://github.com/squgeim/yt-ad-autoskipper)** extension.  
 
 ## Try This Extension
-- Download [Latest Build](https://github.com/ohanedan/yt-ad-autoskipper-safari/releases/latest)
+- Download [Latest Preview](https://github.com/ohanedan/yt-ad-autoskipper-safari/releases/latest)
 - Turn on developer mode on Safari.
 - Open "Allow unsigned extensions" option in developer menu.
 - Put the application in the Applications folder and run(You may need to allow it from the "security & privacy" section in the System Preferences).
