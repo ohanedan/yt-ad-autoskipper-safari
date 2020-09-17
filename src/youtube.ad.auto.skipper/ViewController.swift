@@ -15,7 +15,7 @@ class ViewController: NSViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.appNameLabel.stringValue = "youtube.ad.auto.skipper";
+        self.appNameLabel.stringValue = "Youtube Ad Auto Skipper";
     }
     
     @IBAction func openSafariExtensionPreferences(_ sender: AnyObject?) {
