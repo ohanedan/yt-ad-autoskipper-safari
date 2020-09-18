@@ -10,4 +10,5 @@ This extension was created as a safari version of the [squgeim](https://github.c
 - Put the application in the Applications folder and run(You may need to allow it from the "security & privacy" section in the System Preferences).
 - Activate this extension from the safari settings menu.
 
-### When you use unsigned build, safari stops the extension after a while for security reasons. You can use extension without any problems by cloning it and signing with your personal development certificate.
+### When you use unsigned build, safari stops the extension after a while for security reasons. You can use extension without any problems by downloading [archive build](https://github.com/ohanedan/yt-ad-autoskipper-safari/releases/download/v1.0/Youtube.Ad.Auto.Skipper.xcarchive.zip) and signing with your personal development certificate.
+
